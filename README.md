@@ -2,9 +2,7 @@
 
 ### Data Analyst | Power BI Developer | Python • SQL • Excel • Power BI • DAX
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hemu0119&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 
 ---
 
@@ -90,3 +88,8 @@ DAX & KPI Development
 Power BI Dashboard
    ↓
 Business Insights & Recommendations
+
+---
+
+get in touch:
+
