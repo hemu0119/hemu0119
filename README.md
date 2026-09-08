@@ -31,9 +31,9 @@ I enjoy working with large datasets, identifying trends and patterns, building r
 
 | Project | Tech Stack | Description |
 |---|---|---|
-| [BlinkIT Grocery Analysis](https://github.com/hemu0119/BlinkIT-Grocery) | Python • Pandas • NumPy • Matplotlib • Seaborn | Comprehensive retail sales and outlet performance analysis with KPIs, customer insights, and business recommendations. |
-| [Pizza Sales Analysis](https://github.com/hemu0119/Pizza-Sales-Analysis) | SQL • Power BI • Excel | Revenue, order trends, category performance, and customer purchasing behavior analysis with KPI reporting. |
-| [Swiggy Analysis](https://github.com/hemu0119/Swiggy-Analysis) | Python • Pandas • NumPy • Matplotlib • Seaborn | Food delivery analytics covering restaurant performance, ratings, city-wise trends, and customer preferences. |
+| [BlinkIT Grocery Analysis](https://github.com/hemu0119/BlinkIT-Grocery) | Python • Pandas • NumPy • Matplotlib • Seaborn • Excel |Interactive Excel dashboard analyzing BlinkIT grocery sales, outlet performance, product categories, and key business KPIs. |
+| [Pizza Sales Analysis](https://github.com/hemu0119/Pizza-Sales-Analytics) | SQL • Power BI • Excel |Interactive pizza sales dashboard analyzing revenue, orders, product performance, sales trends, and customer purchasing patterns. |
+| [Swiggy Analysis](https://github.com/hemu0119/Swiggy) | Python • Pandas • NumPy • Matplotlib • Seaborn | End-to-end Swiggy analytics project analyzing sales performance, restaurant revenue, customer ratings, pricing trends, popular dishes, and regional demand. |
 | [Business Performance Dashboard](https://github.com/hemu0119/Business-Performance-Dashboard) | Power BI • DAX • SQL | Interactive KPI dashboard with advanced data modeling, DAX calculations, and business reporting. |
 | [E-Commerce Sales Analysis](https://github.com/hemu0119/E-Commerce-Sales-Analysis) | Python • SQL • Power BI | End-to-end sales analytics covering revenue, customers, products, and regional performance. |
 | [Customer Segmentation & Retention Analysis](https://github.com/hemu0119/Customer-Segmentation-Retention-Analysis) | Python • Pandas • Seaborn | Customer behavior analysis focused on segmentation, retention, and high-value customer identification. |
