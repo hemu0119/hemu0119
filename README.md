@@ -34,13 +34,11 @@ I enjoy working with large datasets, identifying trends and patterns, building r
 | [BlinkIT Grocery Analysis](https://github.com/hemu0119/BlinkIT-Grocery) | Python • Pandas • NumPy • Matplotlib • Seaborn • Excel |Interactive Excel dashboard analyzing BlinkIT grocery sales, outlet performance, product categories, and key business KPIs. |
 | [Pizza Sales Analysis](https://github.com/hemu0119/Pizza-Sales-Analytics) | SQL • Power BI • Excel |Interactive pizza sales dashboard analyzing revenue, orders, product performance, sales trends, and customer purchasing patterns. |
 | [Swiggy Analysis](https://github.com/hemu0119/Swiggy) | Python • Pandas • NumPy • Matplotlib • Seaborn | End-to-end Swiggy analytics project analyzing sales performance, restaurant revenue, customer ratings, pricing trends, popular dishes, and regional demand. |
-| [Business Performance Dashboard](https://github.com/hemu0119/Business-Performance-Dashboard) | Power BI • DAX • SQL | Interactive KPI dashboard with advanced data modeling, DAX calculations, and business reporting. |
-| [E-Commerce Sales Analysis](https://github.com/hemu0119/E-Commerce-Sales-Analysis) | Python • SQL • Power BI | End-to-end sales analytics covering revenue, customers, products, and regional performance. |
-| [Customer Segmentation & Retention Analysis](https://github.com/hemu0119/Customer-Segmentation-Retention-Analysis) | Python • Pandas • Seaborn | Customer behavior analysis focused on segmentation, retention, and high-value customer identification. |
-| [HR Analytics Dashboard](https://github.com/hemu0119/HR-Analytics-Dashboard) | Power BI • DAX • Excel | Workforce analytics covering employee attrition, demographics, performance, and HR KPIs. |
-| [Supply Chain Analytics](https://github.com/hemu0119/Supply-Chain-Analytics) | Power BI • SQL • Excel | Logistics and inventory performance analysis with operational KPI tracking. |
-| [Financial Analysis Dashboard](https://github.com/hemu0119/Financial-Analysis-Dashboard) | Power BI • Excel • DAX | Financial reporting dashboard focused on profitability, revenue, expenses, and business growth. |
-| [Sales Dashboard](https://github.com/hemu0119/Sales-Dashboard) | Power BI • DAX • Excel | Interactive sales reporting dashboard with KPI monitoring and performance insights. |
+| [Coffee-Shop-Sales](https://github.com/hemu0119/Coffee-Shop-Sales) | • Microsoft Excel | Interactive Excel dashboard analyzing coffee sales, product demand, customer patterns, and revenue trends. |
+| [Purchase & Shipping Analysis Dashboard](https://github.com/hemu0119/Purchase-and-Shipping) | • Microsoft Excel | Interactive Excel dashboard analyzing purchasing trends, shipping patterns, product demand, seasonal trends, and customer preferences. |
+| [Awesome Chocolates Sales Dashboard](https://github.com/hemu0119/Awesome-chocolates-Analytics) | Power BI • Excel • DAX • Power Query | Interactive sales dashboard analyzing revenue, profit, shipments, salesperson performance, and country-wise sales. |
+| [Hotel Booking Analytics Dashboard](https://github.com/hemu0119/Hotel-Bookings-Analysis) | Power BI • Excel • DAX • Power Query | Interactive hotel dashboard analyzing bookings, revenue, cancellations, occupancy, customer loyalty, and booking channels. |
+| [Sales and Profit](https://github.com/hemu0119/Sales-and-Profit) | • Microsoft Excel | Interactive Excel dashboard analyzing sales, profitability, product trends, and regional performance through dynamic KPIs and visualizations. |
 
 
 ---
