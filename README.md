@@ -89,7 +89,13 @@ Power BI Dashboard
    ↓
 Business Insights & Recommendations
 
----
 
-get in touch:
+
+---
+### 📬 Get in Touch
+
+- **LinkedIn:** [hemanth-kumar](https://www.linkedin.com/in/hemanth-kumar-249546226/)
+- **GitHub:** [hemu0119](https://github.com/hemu0119)
+- **Email:** [2100080119ai.ds@gmail.com](mailto:2100080119ai.ds@gmail.com)
+
 
