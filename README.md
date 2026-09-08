@@ -26,15 +26,21 @@ I enjoy working with large datasets, identifying trends and patterns, building r
 
 ---
 
+
 ### 🔥 Featured Projects
 
 | Project | Tech Stack | Description |
 |---|---|---|
-| [E-Commerce Sales Analysis](#) | Python • SQL • Power BI | End-to-end sales analysis covering revenue trends, customer behavior, product performance, regional analysis, and interactive KPI reporting. |
-| [Business Performance Dashboard](#) | Power BI • DAX • SQL | Interactive business dashboard focused on KPI tracking, data modeling, reporting performance, and role-based analytics. |
-| [Customer Segmentation & Retention Analysis](#) | Python • Pandas • Seaborn | Exploratory analysis of customer purchasing behavior, segmentation, retention patterns, and high-value customer groups. |
-| [BlinkIT Grocery Analysis](#) | Python • Pandas • NumPy • Matplotlib • Seaborn | Sales and outlet analysis covering product performance, outlet characteristics, customer behavior, KPIs, and business insights. |
-| [Swiggy Analysis](#) | Python • Pandas • NumPy • Matplotlib • Seaborn | Exploratory sales analysis covering revenue trends, restaurant performance, cities, food categories, ratings, and customer preferences. |
+| [BlinkIT Grocery Analysis](https://github.com/hemu0119/BlinkIT-Grocery) | Python • Pandas • NumPy • Matplotlib • Seaborn | Comprehensive retail sales and outlet performance analysis with KPIs, customer insights, and business recommendations. |
+| [Pizza Sales Analysis](https://github.com/hemu0119/Pizza-Sales-Analysis) | SQL • Power BI • Excel | Revenue, order trends, category performance, and customer purchasing behavior analysis with KPI reporting. |
+| [Swiggy Analysis](https://github.com/hemu0119/Swiggy-Analysis) | Python • Pandas • NumPy • Matplotlib • Seaborn | Food delivery analytics covering restaurant performance, ratings, city-wise trends, and customer preferences. |
+| [Business Performance Dashboard](https://github.com/hemu0119/Business-Performance-Dashboard) | Power BI • DAX • SQL | Interactive KPI dashboard with advanced data modeling, DAX calculations, and business reporting. |
+| [E-Commerce Sales Analysis](https://github.com/hemu0119/E-Commerce-Sales-Analysis) | Python • SQL • Power BI | End-to-end sales analytics covering revenue, customers, products, and regional performance. |
+| [Customer Segmentation & Retention Analysis](https://github.com/hemu0119/Customer-Segmentation-Retention-Analysis) | Python • Pandas • Seaborn | Customer behavior analysis focused on segmentation, retention, and high-value customer identification. |
+| [HR Analytics Dashboard](https://github.com/hemu0119/HR-Analytics-Dashboard) | Power BI • DAX • Excel | Workforce analytics covering employee attrition, demographics, performance, and HR KPIs. |
+| [Supply Chain Analytics](https://github.com/hemu0119/Supply-Chain-Analytics) | Power BI • SQL • Excel | Logistics and inventory performance analysis with operational KPI tracking. |
+| [Financial Analysis Dashboard](https://github.com/hemu0119/Financial-Analysis-Dashboard) | Power BI • Excel • DAX | Financial reporting dashboard focused on profitability, revenue, expenses, and business growth. |
+| [Sales Dashboard](https://github.com/hemu0119/Sales-Dashboard) | Power BI • DAX • Excel | Interactive sales reporting dashboard with KPI monitoring and performance insights. |
 
 
 ---
