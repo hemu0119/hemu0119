@@ -1,6 +1,6 @@
 # Hey 👋, I'm Hemanth Kumar
 
-### Data Analyst | Power BI Developer | Python • SQL • Excel • Power BI • DAX
+### Data Analyst | Power BI Developer 
 
 
 
@@ -8,7 +8,7 @@
 
 I'm a **Data Analyst and Power BI Developer** focused on transforming raw data into meaningful business insights.
 
-I work across the complete analytics workflow — from **data extraction, cleaning, transformation, and exploratory analysis to data modeling, DAX, KPI reporting, and interactive Power BI dashboards**. I use **Python, SQL, Advanced Excel, Power Query, and Power BI** to solve business problems and support data-driven decision-making. :contentReference[oaicite:2]{index=2}
+I work across the complete analytics workflow — from **data extraction, cleaning, transformation, and exploratory analysis to data modeling, DAX, KPI reporting, and interactive Power BI dashboards**. I use **Python, SQL, Advanced Excel, Power Query, and Power BI** to solve business problems and support data-driven decision-making. 
 
 I enjoy working with large datasets, identifying trends and patterns, building reliable ETL workflows, and creating dashboards that make complex information easier to understand and act on.
 
@@ -36,33 +36,24 @@ I enjoy working with large datasets, identifying trends and patterns, building r
 | [BlinkIT Grocery Analysis](#) | Python • Pandas • NumPy • Matplotlib • Seaborn | Sales and outlet analysis covering product performance, outlet characteristics, customer behavior, KPIs, and business insights. |
 | [Swiggy Analysis](#) | Python • Pandas • NumPy • Matplotlib • Seaborn | Exploratory sales analysis covering revenue trends, restaurant performance, cities, food categories, ratings, and customer preferences. |
 
+
 ---
 
-### 🧠 Technical Skills
+### 🧠 Tech Stack
 
-**Programming & Querying**
+**Programming & Querying:** Python • SQL
 
-Python • SQL
+**Python Libraries:** Pandas • NumPy • Matplotlib • Seaborn
 
-**Data Analysis**
+**Data Analytics:** Data Cleaning • Data Wrangling • Exploratory Data Analysis (EDA) • Statistical Analysis • Trend Analysis • Outlier Analysis • Feature Engineering
 
-Pandas • NumPy • Data Cleaning • Data Wrangling • EDA • Statistical Analysis • Trend Analysis • Outlier Analysis
+**Power BI & Business Intelligence:** Power BI • DAX • Power Query • Interactive Dashboards • Dashboard Development • KPI Reporting • Data Visualization
 
-**Business Intelligence**
+**Excel & Reporting:** Advanced Excel • Data Transformation • Reporting Automation • KPI Tracking
 
-Power BI • DAX • Power Query • Interactive Dashboards • KPI Reporting • Data Visualization
+**Databases:** MySQL
 
-**Visualization**
-
-Matplotlib • Seaborn
-
-**Databases & Tools**
-
-MySQL • Advanced Excel • Git • GitHub
-
-**Data Engineering & Modeling**
-
-ETL Pipelines • Data Transformation • Data Modeling • Star Schema • Data Validation • Data Warehouse
+**Tools:** Git • GitHub
 
 ---
 
