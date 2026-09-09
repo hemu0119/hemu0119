@@ -1,7 +1,11 @@
+<div align="center">
+
   #  Hey 👋, I'm Hemanth Kumar
 
 ### Data Analyst | Power BI Developer 
 
+
+</div>
 
 
 ---
