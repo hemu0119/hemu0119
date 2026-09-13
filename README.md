@@ -36,7 +36,7 @@ I enjoy working with large datasets, identifying trends and patterns, building r
 | Project | Tech Stack | Description |
 |---|---|---|
 | [BlinkIT Grocery Analysis](https://github.com/hemu0119/BlinkIT-Grocery) | Python • Pandas • NumPy • Matplotlib • Seaborn • Excel |Interactive Excel dashboard analyzing BlinkIT grocery sales, outlet performance, product categories, and key business KPIs. |
-| [Pizza Sales Analysis](https://github.com/hemu0119/Pizza-Sales-Analytics) | SQL • Power BI • Excel |Interactive pizza sales dashboard analyzing revenue, orders, product performance, sales trends, and customer purchasing patterns. |
+| [Pizza Sales Analysis](https://github.com/hemu0119/Pizza-Sales-Analytics) | Python • SQL • Power BI • Excel |Interactive pizza sales dashboard analyzing revenue, orders, product performance, sales trends, and customer purchasing patterns. |
 | [Swiggy Analysis](https://github.com/hemu0119/Swiggy) | Python • Pandas • NumPy • Matplotlib • Seaborn | End-to-end Swiggy analytics project analyzing sales performance, restaurant revenue, customer ratings, pricing trends, popular dishes, and regional demand. |
 | [Awesome Chocolates Sales Dashboard](https://github.com/hemu0119/Awesome-chocolates-Analytics) | Power BI • Excel • DAX • Power Query | Interactive sales dashboard analyzing revenue, profit, shipments, salesperson performance, and country-wise sales. |
 | [Coffee-Shop-Sales](https://github.com/hemu0119/Coffee-Shop-Sales) | • Microsoft Excel | Interactive Excel dashboard analyzing coffee sales, product demand, customer patterns, and revenue trends. |
