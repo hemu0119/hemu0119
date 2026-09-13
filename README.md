@@ -31,20 +31,18 @@ I enjoy working with large datasets, identifying trends and patterns, building r
 ---
 
 
-### 🔥 Featured Projects
+## 🔥 Featured Projects
 
 | Project | Tech Stack | Description |
-|---|---|---|
-
-| [Pizza Sales Analysis](https://github.com/hemu0119/Pizza-Sales-Analytics) | Python • Pandas • NumPy • Matplotlib • Seaborn • SQL • Power BI • Excel |Interactive pizza sales dashboard analyzing revenue, orders, product performance, sales trends, and customer purchasing patterns. |
-| [BlinkIT Grocery Analysis](https://github.com/hemu0119/BlinkIT-Grocery) | Python • Pandas • NumPy • Matplotlib • Seaborn • Excel |Interactive Excel dashboard analyzing BlinkIT grocery sales, outlet performance, product categories, and key business KPIs. |
+|----------|------------|-------------|
+| [Pizza Sales Analysis](https://github.com/hemu0119/Pizza-Sales-Analytics) | Python • Pandas • NumPy • Matplotlib • Seaborn • SQL • Power BI • Excel | Interactive pizza sales dashboard analyzing revenue, orders, product performance, sales trends, and customer purchasing patterns. |
+| [BlinkIT Grocery Analysis](https://github.com/hemu0119/BlinkIT-Grocery) | Python • Pandas • NumPy • Matplotlib • Seaborn • Excel | Interactive Excel dashboard analyzing BlinkIT grocery sales, outlet performance, product categories, and key business KPIs. |
 | [Swiggy Analysis](https://github.com/hemu0119/Swiggy) | Python • Pandas • NumPy • Matplotlib • Seaborn | End-to-end Swiggy analytics project analyzing sales performance, restaurant revenue, customer ratings, pricing trends, popular dishes, and regional demand. |
 | [Awesome Chocolates Sales Dashboard](https://github.com/hemu0119/Awesome-chocolates-Analytics) | Power BI • Excel • DAX • Power Query | Interactive sales dashboard analyzing revenue, profit, shipments, salesperson performance, and country-wise sales. |
-| [Coffee-Shop-Sales](https://github.com/hemu0119/Coffee-Shop-Sales) | • Microsoft Excel | Interactive Excel dashboard analyzing coffee sales, product demand, customer patterns, and revenue trends. |
-| [Purchase & Shipping Analysis Dashboard](https://github.com/hemu0119/Purchase-and-Shipping) | • Microsoft Excel | Interactive Excel dashboard analyzing purchasing trends, shipping patterns, product demand, seasonal trends, and customer preferences. |
+| [Coffee Shop Sales](https://github.com/hemu0119/Coffee-Shop-Sales) | Microsoft Excel | Interactive Excel dashboard analyzing coffee sales, product demand, customer patterns, and revenue trends. |
+| [Purchase & Shipping Analysis Dashboard](https://github.com/hemu0119/Purchase-and-Shipping) | Microsoft Excel | Interactive Excel dashboard analyzing purchasing trends, shipping patterns, product demand, seasonal trends, and customer preferences. |
 | [Hotel Booking Analytics Dashboard](https://github.com/hemu0119/Hotel-Bookings-Analysis) | Power BI • Excel • DAX • Power Query | Interactive hotel dashboard analyzing bookings, revenue, cancellations, occupancy, customer loyalty, and booking channels. |
-| [Sales and Profit](https://github.com/hemu0119/Sales-and-Profit) | • Microsoft Excel | Interactive Excel dashboard analyzing sales, profitability, product trends, and regional performance through dynamic KPIs and visualizations. |
-
+| [Sales and Profit Dashboard](https://github.com/hemu0119/Sales-and-Profit) | Microsoft Excel | Interactive Excel dashboard analyzing sales, profitability, product trends, and regional performance through dynamic KPIs and visualizations. |
 
 ---
 
